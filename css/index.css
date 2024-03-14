@@ -1,0 +1,206 @@
+/* Importaciones */
+
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Roboto:wght@300;400;700&family=Source+Code+Pro:wght@200;400;900&display=swap");
+
+/* Generales */
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Caveat", cursive;
+}
+
+/* Etiquetas */
+
+html {
+  background-color: #08596a;
+}
+
+hr {
+  background-color: #6bcba4;
+  border: #6bcba4;
+  border-radius: 10px;
+  height: 3px;
+  margin: 0px 25px 0px 25px;
+}
+
+/* Clases File One */
+
+.file-one {
+  width: 30.8%;
+  float: left;
+  margin: 15px;
+  background-color: #9ee6aa;
+  border-radius: 10px;
+  height: auto;
+}
+
+.foto-div {
+  text-align: center;
+}
+
+.foto {
+  margin: 35px 0px 15px 0px;
+  width: 50%;
+  border: solid 3px #6bcba4;
+  border-radius: 100%;
+}
+
+.foto:hover {
+  border-radius: 10px;
+  border: solid 3px #08596a;
+}
+
+.info-user {
+  margin: 35px;
+  background-color: #6bcba4;
+  border-radius: 10px;
+}
+
+.p-text {
+  padding: 25px 25px 6.5px 25px;
+  font-size: 1.6em;
+}
+
+.p-text:hover {
+  background-color: #08596a;
+  color: #9ee6aa;
+  border-radius: 10px;
+}
+
+.redes {
+  margin: 25px;
+  text-align: center;
+}
+
+.logo-red {
+  margin: 5px 28px 30px 28px;
+  float: left;
+  width: 15%;
+}
+
+.logo-red:hover {
+  background-color: #6bcba4;
+  border: solid 3px red;
+  border-radius: 100%;
+}
+
+.logo-red:active {
+  border: solid 3px #14ff03;
+}
+
+/* Clases File Two */
+
+.file-two {
+  width: 30.8%;
+  float: left;
+  margin: 15px;
+  background-color: #9ee6aa;
+  border-radius: 10px;
+  height: auto;
+}
+
+.title-est {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 2.5em;
+  text-align: center;
+}
+
+.subtitulos {
+  margin: 8.7px 25px 0px 25px;
+  font-size: 2em;
+}
+
+.p-sub {
+  margin: 5px 25px 0px 0px;
+  padding: 0px 0px 0px 10px;
+  margin-left: 15px;
+  font-size: 1.3em;
+}
+
+.proyectos-tl {
+  margin: 5px 25px 15px 25px;
+}
+
+.a-proyectos {
+  text-align: center;
+  text-decoration: none;
+  margin: 0px 5px 0px 42px;
+  padding: 8px 15px 8px 10px;
+  background-color: #08596a;
+  border: solid 3px #08596a;
+  border-radius: 10px;
+  font-size: 1.1em;
+  color: #9ee6aa;
+  font-weight: bold;
+}
+
+.a-proyectos:hover {
+  background-color: #6bcba4;
+  color: #08596a;
+  border: solid 3px red;
+}
+
+.a-proyectos:active {
+  border: solid 3px #14ff03;
+  background-color: #6bcba4;
+  color: #08596a;
+}
+
+.btn-proyectos {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* Clases File Three */
+
+.file-three {
+  width: 30.8%;
+  float: left;
+  margin: 15px;
+  background-color: #9ee6aa;
+  border-radius: 10px;
+  height: auto;
+}
+
+.sub-ingles {
+  margin: 5px 35px 5px 35px;
+}
+
+.str {
+  background-color: #085a6a4d;
+  border-style: initial;
+}
+
+.div-img-skills {
+  margin: 20px 45px 20px 60px;
+}
+
+.img-skills {
+  padding: 10px;
+  border-radius: 100%;
+  width: 23%;
+  margin: 0px 10px;
+}
+
+.img-skills:hover {
+  border: solid 3px red;
+  border-radius: 15%;
+  padding: 3px;
+  background-color: #6bcba4;
+}
+
+.img-skills:active {
+  border: solid 3px #14ff03;
+  border-radius: 15px;
+}
+
+.logros {
+  margin: 5px 25px 5px 25px;
+}
+
+.h3-logros {
+  margin: 6.3px 35px 6.4px 35px;
+}
