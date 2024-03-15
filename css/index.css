@@ -1,14 +1,14 @@
 /* Importaciones */
 
 @import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Roboto:wght@300;400;700&family=Source+Code+Pro:wght@200;400;900&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap");
 /* Generales */
 
 * {
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
-  font-family: "Caveat", cursive;
+  font-family: "Source Sans 3", sans-serif;
 }
 
 /* Etiquetas */
@@ -60,7 +60,7 @@ hr {
 
 .p-text {
   padding: 25px 25px 6.5px 25px;
-  font-size: 1.6em;
+  font-size: 1.5em;
 }
 
 .p-text:hover {
@@ -109,7 +109,7 @@ hr {
 }
 
 .subtitulos {
-  margin: 8.7px 25px 0px 25px;
+  margin: 9.9px 25px 0px 25px;
   font-size: 2em;
 }
 
@@ -121,18 +121,18 @@ hr {
 }
 
 .proyectos-tl {
-  margin: 5px 25px 15px 25px;
+  margin: 10px 25px 15px 25px;
 }
 
 .a-proyectos {
   text-align: center;
   text-decoration: none;
-  margin: 0px 5px 0px 42px;
+  margin: 0px 0px 0px 38px;
   padding: 8px 15px 8px 10px;
   background-color: #08596a;
   border: solid 3px #08596a;
   border-radius: 10px;
-  font-size: 1.1em;
+  font-size: 1em;
   color: #9ee6aa;
   font-weight: bold;
 }
@@ -202,5 +202,5 @@ hr {
 }
 
 .h3-logros {
-  margin: 6.3px 35px 6.4px 35px;
+  margin: 10px 35px 10px 35px;
 }
